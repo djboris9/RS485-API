@@ -269,7 +269,7 @@ Sets the amplifier output frequency.
 
 |||
 |-|-|
-|Command|`setMAV[voltage]\r`|
+|Command|`setMAXV[voltage]\r`|
 |Required| Voltage=[integer], peak to peak voltage limit in volts|
 |Notes|New value is returned. Clipped between 0 and the maximum voltage output.|
 
